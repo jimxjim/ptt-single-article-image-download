@@ -1,0 +1,18 @@
+{
+  "name": "pttover",
+  "version": "1.0.0",
+  "description": "crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jim74255@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "get-image-urls": "^1.0.5",
+    "image-downloader": "^4.0.1"
+  }
+}
